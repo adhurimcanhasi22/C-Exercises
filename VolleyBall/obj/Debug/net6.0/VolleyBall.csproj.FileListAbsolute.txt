@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\bin\Debug\net6.0\VolleyBall.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\bin\Debug\net6.0\VolleyBall.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\bin\Debug\net6.0\VolleyBall.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\bin\Debug\net6.0\VolleyBall.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\bin\Debug\net6.0\VolleyBall.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\refint\VolleyBall.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\VolleyBall.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VolleyBall\obj\Debug\net6.0\ref\VolleyBall.dll

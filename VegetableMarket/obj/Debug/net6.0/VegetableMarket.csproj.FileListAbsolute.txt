@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\bin\Debug\net6.0\VegetableMarket.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\bin\Debug\net6.0\VegetableMarket.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\bin\Debug\net6.0\VegetableMarket.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\bin\Debug\net6.0\VegetableMarket.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\bin\Debug\net6.0\VegetableMarket.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\refint\VegetableMarket.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\VegetableMarket.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\VegetableMarket\obj\Debug\net6.0\ref\VegetableMarket.dll
