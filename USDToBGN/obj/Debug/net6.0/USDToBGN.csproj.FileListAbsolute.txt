@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\bin\Debug\net6.0\USDToBGN.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\bin\Debug\net6.0\USDToBGN.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\bin\Debug\net6.0\USDToBGN.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\bin\Debug\net6.0\USDToBGN.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\bin\Debug\net6.0\USDToBGN.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\refint\USDToBGN.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\USDToBGN.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\USDToBGN\obj\Debug\net6.0\ref\USDToBGN.dll

@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Nakov.TurtleGraphics/2.0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/Nakov.TurtleGraphics.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Nakov.TurtleGraphics.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Nakov.TurtleGraphics/2.0.2.1": {
+      "sha512": "EBXPvJawtk0EpxDoEe2El0GZldtfcEGaufppheUzitHTxNqiBRCgvaMyUQd/PElxx/COsdFCMszLEi0RjeP4gA==",
+      "type": "package",
+      "path": "nakov.turtlegraphics/2.0.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "Nakov.TurtleGraphics-logo.png",
+        "lib/net35/Nakov.TurtleGraphics.dll",
+        "lib/net5.0-windows7.0/Nakov.TurtleGraphics.dll",
+        "lib/netcoreapp3.1/Nakov.TurtleGraphics.dll",
+        "nakov.turtlegraphics.2.0.2.1.nupkg.sha512",
+        "nakov.turtlegraphics.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Nakov.TurtleGraphics >= 2.0.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adhurim Canhasi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Adhurim Canhasi\\Documents\\AC\\Kompjuterike I\\Visual Studio\\Exercises\\ConsoleApp1\\TurtleDrawing\\TurtleDrawing.csproj",
+      "projectName": "TurtleDrawing",
+      "projectPath": "C:\\Users\\Adhurim Canhasi\\Documents\\AC\\Kompjuterike I\\Visual Studio\\Exercises\\ConsoleApp1\\TurtleDrawing\\TurtleDrawing.csproj",
+      "packagesPath": "C:\\Users\\Adhurim Canhasi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adhurim Canhasi\\Documents\\AC\\Kompjuterike I\\Visual Studio\\Exercises\\ConsoleApp1\\TurtleDrawing\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adhurim Canhasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Nakov.TurtleGraphics": {
+            "target": "Package",
+            "version": "[2.0.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.30, 6.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.30, 6.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.30, 6.0.30]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.30, 6.0.30]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
