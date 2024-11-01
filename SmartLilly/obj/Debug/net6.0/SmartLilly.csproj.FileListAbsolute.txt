@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\bin\Debug\net6.0\SmartLilly.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\bin\Debug\net6.0\SmartLilly.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\bin\Debug\net6.0\SmartLilly.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\bin\Debug\net6.0\SmartLilly.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\bin\Debug\net6.0\SmartLilly.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\refint\SmartLilly.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\SmartLilly.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SmartLilly\obj\Debug\net6.0\ref\SmartLilly.dll

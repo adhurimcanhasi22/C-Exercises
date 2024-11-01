@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\bin\Debug\net6.0\SleepyCat.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\bin\Debug\net6.0\SleepyCat.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\bin\Debug\net6.0\SleepyCat.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\bin\Debug\net6.0\SleepyCat.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\bin\Debug\net6.0\SleepyCat.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\refint\SleepyCat.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\SleepyCat.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SleepyCat\obj\Debug\net6.0\ref\SleepyCat.dll
