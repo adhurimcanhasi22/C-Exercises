@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\bin\Debug\net6.0\CToF(Temperature).exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\bin\Debug\net6.0\CToF(Temperature).deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\bin\Debug\net6.0\CToF(Temperature).runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\bin\Debug\net6.0\CToF(Temperature).dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\bin\Debug\net6.0\CToF(Temperature).pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\refint\CToF(Temperature).dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\CToF(Temperature).genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CToF(Temperature)\obj\Debug\net6.0\ref\CToF(Temperature).dll
