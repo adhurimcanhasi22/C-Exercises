@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\bin\Debug\net6.0\ExcellentOrNot.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\bin\Debug\net6.0\ExcellentOrNot.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\bin\Debug\net6.0\ExcellentOrNot.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\bin\Debug\net6.0\ExcellentOrNot.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\bin\Debug\net6.0\ExcellentOrNot.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\refint\ExcellentOrNot.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ExcellentOrNot.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentOrNot\obj\Debug\net6.0\ref\ExcellentOrNot.dll

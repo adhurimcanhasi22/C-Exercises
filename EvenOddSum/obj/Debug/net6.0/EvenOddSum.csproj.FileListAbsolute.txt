@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\bin\Debug\net6.0\EvenOddSum.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\bin\Debug\net6.0\EvenOddSum.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\bin\Debug\net6.0\EvenOddSum.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\bin\Debug\net6.0\EvenOddSum.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\bin\Debug\net6.0\EvenOddSum.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\refint\EvenOddSum.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\EvenOddSum.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\EvenOddSum\obj\Debug\net6.0\ref\EvenOddSum.dll

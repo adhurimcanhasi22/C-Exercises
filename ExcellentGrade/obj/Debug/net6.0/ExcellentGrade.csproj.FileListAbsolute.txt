@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\bin\Debug\net6.0\ExcellentGrade.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\refint\ExcellentGrade.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ExcellentGrade.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ExcellentGrade\obj\Debug\net6.0\ref\ExcellentGrade.dll
