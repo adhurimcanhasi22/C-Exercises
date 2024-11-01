@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\bin\Debug\net6.0\MagicNumber.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\bin\Debug\net6.0\MagicNumber.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\bin\Debug\net6.0\MagicNumber.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\bin\Debug\net6.0\MagicNumber.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\bin\Debug\net6.0\MagicNumber.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\refint\MagicNumber.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\MagicNumber.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\MagicNumber\obj\Debug\net6.0\ref\MagicNumber.dll

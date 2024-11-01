@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\bin\Debug\net6.0\LeftRightSum.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\bin\Debug\net6.0\LeftRightSum.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\bin\Debug\net6.0\LeftRightSum.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\bin\Debug\net6.0\LeftRightSum.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\bin\Debug\net6.0\LeftRightSum.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\refint\LeftRightSum.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\LeftRightSum.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\LeftRightSum\obj\Debug\net6.0\ref\LeftRightSum.dll
