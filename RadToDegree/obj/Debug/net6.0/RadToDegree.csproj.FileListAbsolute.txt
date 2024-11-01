@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\bin\Debug\net6.0\RadToDegree.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\bin\Debug\net6.0\RadToDegree.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\bin\Debug\net6.0\RadToDegree.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\bin\Debug\net6.0\RadToDegree.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\bin\Debug\net6.0\RadToDegree.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\refint\RadToDegree.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\RadToDegree.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RadToDegree\obj\Debug\net6.0\ref\RadToDegree.dll

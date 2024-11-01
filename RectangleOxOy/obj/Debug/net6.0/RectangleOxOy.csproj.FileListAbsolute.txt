@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\bin\Debug\net6.0\RectangleOxOy.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\bin\Debug\net6.0\RectangleOxOy.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\bin\Debug\net6.0\RectangleOxOy.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\bin\Debug\net6.0\RectangleOxOy.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\bin\Debug\net6.0\RectangleOxOy.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\refint\RectangleOxOy.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\RectangleOxOy.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\RectangleOxOy\obj\Debug\net6.0\ref\RectangleOxOy.dll
