@@ -1,0 +1,17 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\bin\Debug\net6.0-windows\CatchMe.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\bin\Debug\net6.0-windows\CatchMe.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\bin\Debug\net6.0-windows\CatchMe.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\bin\Debug\net6.0-windows\CatchMe.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\bin\Debug\net6.0-windows\CatchMe.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.Form1.resources
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.csproj.GenerateResource.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\refint\CatchMe.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\CatchMe.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\CatchMe\obj\Debug\net6.0-windows\ref\CatchMe.dll
