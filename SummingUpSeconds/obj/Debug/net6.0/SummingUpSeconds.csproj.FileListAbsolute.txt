@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\bin\Debug\net6.0\SummingUpSeconds.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\bin\Debug\net6.0\SummingUpSeconds.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\bin\Debug\net6.0\SummingUpSeconds.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\bin\Debug\net6.0\SummingUpSeconds.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\bin\Debug\net6.0\SummingUpSeconds.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\refint\SummingUpSeconds.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\SummingUpSeconds.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SummingUpSeconds\obj\Debug\net6.0\ref\SummingUpSeconds.dll
