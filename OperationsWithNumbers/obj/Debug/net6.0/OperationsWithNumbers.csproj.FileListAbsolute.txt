@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\bin\Debug\net6.0\OperationsWithNumbers.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\bin\Debug\net6.0\OperationsWithNumbers.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\bin\Debug\net6.0\OperationsWithNumbers.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\bin\Debug\net6.0\OperationsWithNumbers.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\bin\Debug\net6.0\OperationsWithNumbers.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\refint\OperationsWithNumbers.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\OperationsWithNumbers.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OperationsWithNumbers\obj\Debug\net6.0\ref\OperationsWithNumbers.dll

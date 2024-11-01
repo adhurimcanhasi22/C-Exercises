@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\bin\Debug\net6.0\PipesInPool.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\bin\Debug\net6.0\PipesInPool.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\bin\Debug\net6.0\PipesInPool.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\bin\Debug\net6.0\PipesInPool.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\bin\Debug\net6.0\PipesInPool.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\refint\PipesInPool.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\PipesInPool.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PipesInPool\obj\Debug\net6.0\ref\PipesInPool.dll

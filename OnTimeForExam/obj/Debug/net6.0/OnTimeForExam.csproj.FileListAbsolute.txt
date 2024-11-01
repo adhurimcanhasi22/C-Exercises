@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\refint\OnTimeForExam.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\OnTimeForExam\obj\Debug\net6.0\ref\OnTimeForExam.dll
