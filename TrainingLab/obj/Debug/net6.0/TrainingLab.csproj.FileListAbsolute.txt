@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\bin\Debug\net6.0\TrainingLab.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\bin\Debug\net6.0\TrainingLab.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\bin\Debug\net6.0\TrainingLab.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\bin\Debug\net6.0\TrainingLab.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\bin\Debug\net6.0\TrainingLab.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\refint\TrainingLab.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\TrainingLab.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TrainingLab\obj\Debug\net6.0\ref\TrainingLab.dll

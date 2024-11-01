@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\bin\Debug\net6.0\Triangleof55stars.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\bin\Debug\net6.0\Triangleof55stars.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\bin\Debug\net6.0\Triangleof55stars.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\bin\Debug\net6.0\Triangleof55stars.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\bin\Debug\net6.0\Triangleof55stars.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\refint\Triangleof55stars.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\Triangleof55stars.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Triangleof55stars\obj\Debug\net6.0\ref\Triangleof55stars.dll

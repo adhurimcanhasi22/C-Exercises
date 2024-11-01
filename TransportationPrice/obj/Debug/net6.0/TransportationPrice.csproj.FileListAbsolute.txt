@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\bin\Debug\net6.0\TransportationPrice.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\bin\Debug\net6.0\TransportationPrice.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\bin\Debug\net6.0\TransportationPrice.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\bin\Debug\net6.0\TransportationPrice.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\bin\Debug\net6.0\TransportationPrice.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\refint\TransportationPrice.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\TransportationPrice.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\TransportationPrice\obj\Debug\net6.0\ref\TransportationPrice.dll
