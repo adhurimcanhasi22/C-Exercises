@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\refint\InchesToCentimetres.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\InchesToCentimetres\obj\Debug\net6.0\ref\InchesToCentimetres.dll
