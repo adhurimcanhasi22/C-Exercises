@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\bin\Debug\net6.0\DateCalculations.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\bin\Debug\net6.0\DateCalculations.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\bin\Debug\net6.0\DateCalculations.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\bin\Debug\net6.0\DateCalculations.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\bin\Debug\net6.0\DateCalculations.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\refint\DateCalculations.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\DateCalculations.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DateCalculations\obj\Debug\net6.0\ref\DateCalculations.dll

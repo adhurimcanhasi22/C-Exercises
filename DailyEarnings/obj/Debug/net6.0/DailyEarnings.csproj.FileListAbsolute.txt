@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\bin\Debug\net6.0\DailyEarnings.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\bin\Debug\net6.0\DailyEarnings.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\bin\Debug\net6.0\DailyEarnings.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\bin\Debug\net6.0\DailyEarnings.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\bin\Debug\net6.0\DailyEarnings.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\refint\DailyEarnings.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\DailyEarnings.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\DailyEarnings\obj\Debug\net6.0\ref\DailyEarnings.dll
