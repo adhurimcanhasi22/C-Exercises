@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\bin\Debug\net6.0\0To100.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\bin\Debug\net6.0\0To100.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\bin\Debug\net6.0\0To100.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\bin\Debug\net6.0\0To100.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\bin\Debug\net6.0\0To100.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\refint\0To100.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\0To100.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\0To100\obj\Debug\net6.0\ref\0To100.dll
