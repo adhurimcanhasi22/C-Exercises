@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\bin\Debug\net6.0\SquareOfStars.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\bin\Debug\net6.0\SquareOfStars.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\bin\Debug\net6.0\SquareOfStars.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\bin\Debug\net6.0\SquareOfStars.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\bin\Debug\net6.0\SquareOfStars.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\refint\SquareOfStars.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\SquareOfStars.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\SquareOfStars\obj\Debug\net6.0\ref\SquareOfStars.dll
