@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5C4Nf5iT/4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adhurim Canhasi\\Documents\\AC\\Kompjuterike I\\Visual Studio\\Exercises\\ConsoleApp1\\BackToThePast\\BackToThePast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adhurim Canhasi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Adhurim Canhasi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Adhurim Canhasi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Adhurim Canhasi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

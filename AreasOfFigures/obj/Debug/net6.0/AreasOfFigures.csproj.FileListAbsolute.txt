@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\bin\Debug\net6.0\AreasOfFigures.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\bin\Debug\net6.0\AreasOfFigures.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\bin\Debug\net6.0\AreasOfFigures.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\bin\Debug\net6.0\AreasOfFigures.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\bin\Debug\net6.0\AreasOfFigures.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\refint\AreasOfFigures.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\AreasOfFigures.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreasOfFigures\obj\Debug\net6.0\ref\AreasOfFigures.dll

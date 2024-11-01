@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\bin\Debug\net6.0\AreaOfTriangle.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\refint\AreaOfTriangle.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\AreaOfTriangle.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTriangle\obj\Debug\net6.0\ref\AreaOfTriangle.dll

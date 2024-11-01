@@ -1,0 +1,17 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\bin\Debug\net6.0-windows\BGNtoEUR.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\bin\Debug\net6.0-windows\BGNtoEUR.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\bin\Debug\net6.0-windows\BGNtoEUR.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\bin\Debug\net6.0-windows\BGNtoEUR.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\bin\Debug\net6.0-windows\BGNtoEUR.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.Form1.resources
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.csproj.GenerateResource.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\refint\BGNtoEUR.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\BGNtoEUR.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\BGNtoEUR\obj\Debug\net6.0-windows\ref\BGNtoEUR.dll
