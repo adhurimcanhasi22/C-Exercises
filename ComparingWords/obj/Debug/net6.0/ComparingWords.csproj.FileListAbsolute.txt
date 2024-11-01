@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\bin\Debug\net6.0\ComparingWords.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\bin\Debug\net6.0\ComparingWords.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\bin\Debug\net6.0\ComparingWords.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\bin\Debug\net6.0\ComparingWords.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\bin\Debug\net6.0\ComparingWords.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\refint\ComparingWords.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ComparingWords.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\ComparingWords\obj\Debug\net6.0\ref\ComparingWords.dll
