@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\bin\Debug\net6.0\Equal3Numbers.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\bin\Debug\net6.0\Equal3Numbers.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\bin\Debug\net6.0\Equal3Numbers.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\bin\Debug\net6.0\Equal3Numbers.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\bin\Debug\net6.0\Equal3Numbers.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\refint\Equal3Numbers.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\Equal3Numbers.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\Equal3Numbers\obj\Debug\net6.0\ref\Equal3Numbers.dll
