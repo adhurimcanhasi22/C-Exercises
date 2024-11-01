@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\bin\Debug\net6.0\PointsInTheFigure.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\bin\Debug\net6.0\PointsInTheFigure.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\bin\Debug\net6.0\PointsInTheFigure.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\bin\Debug\net6.0\PointsInTheFigure.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\bin\Debug\net6.0\PointsInTheFigure.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\refint\PointsInTheFigure.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\PointsInTheFigure.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PointsInTheFigure\obj\Debug\net6.0\ref\PointsInTheFigure.dll

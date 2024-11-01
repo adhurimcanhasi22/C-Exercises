@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\bin\Debug\net6.0\PracticalExam.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\bin\Debug\net6.0\PracticalExam.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\bin\Debug\net6.0\PracticalExam.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\bin\Debug\net6.0\PracticalExam.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\bin\Debug\net6.0\PracticalExam.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\refint\PracticalExam.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\PracticalExam.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\PracticalExam\obj\Debug\net6.0\ref\PracticalExam.dll
