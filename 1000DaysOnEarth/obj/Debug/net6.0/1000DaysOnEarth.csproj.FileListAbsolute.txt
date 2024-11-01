@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\bin\Debug\net6.0\1000DaysOnEarth.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\bin\Debug\net6.0\1000DaysOnEarth.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\bin\Debug\net6.0\1000DaysOnEarth.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\bin\Debug\net6.0\1000DaysOnEarth.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\bin\Debug\net6.0\1000DaysOnEarth.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\refint\1000DaysOnEarth.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\1000DaysOnEarth.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\1000DaysOnEarth\obj\Debug\net6.0\ref\1000DaysOnEarth.dll

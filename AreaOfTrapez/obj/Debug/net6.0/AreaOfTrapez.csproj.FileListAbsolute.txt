@@ -1,0 +1,15 @@
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\bin\Debug\net6.0\AreaOfTrapez.exe
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\bin\Debug\net6.0\AreaOfTrapez.deps.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\bin\Debug\net6.0\AreaOfTrapez.runtimeconfig.json
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\bin\Debug\net6.0\AreaOfTrapez.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\bin\Debug\net6.0\AreaOfTrapez.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.csproj.AssemblyReference.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.AssemblyInfoInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.AssemblyInfo.cs
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.csproj.CoreCompileInputs.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\refint\AreaOfTrapez.dll
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.pdb
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\AreaOfTrapez.genruntimeconfig.cache
+C:\Users\Adhurim\Documents\AC\Kompjuterike\Visual Studio\Exercises\ConsoleApp1\AreaOfTrapez\obj\Debug\net6.0\ref\AreaOfTrapez.dll
